@@ -1,0 +1,6 @@
+{
+  "summary":  "Revised implementation plan adding direct hardware FM chip driver access (MediaTek/AOSP IFMRadioService, /dev/radio0 probing, AudioSystem routing) for devices without an OEM app, as well as dedicated Bluetooth device & audio connection management with battery optimization.",
+  "updatedAt":  "2026-10-30T18:40:07.682284110Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
